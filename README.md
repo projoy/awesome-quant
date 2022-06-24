@@ -24,6 +24,7 @@
 *  [其他Quant资源索引](#其他quant资源索引)
 
 ## 数据源
+* [baostock](http://baostock.com)- 证券宝-baostock.com
 * [TuShare](http://tushare.org/)  - 中文财经数据接口包
 * [Quandl](https://www.quandl.com/) - 国际金融和经济数据
 * [Wind资讯-经济数据库](http://www.wind.com.cn/NewSite/edb.html) - 收费
